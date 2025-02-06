@@ -35,6 +35,7 @@ cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
 - Use `:help options` or browse [here](https://neovim.io/doc/user/options.html)
 - You don't *always* need to configure plugins: most have sensible defaults, and you can set as few or as many opts as you wish.
 
+<br><br>
 
 ### the Minimalist (better text editor)
 ```
@@ -49,7 +50,7 @@ Plugins might include:
 - Surround editing
 - Better syntax highlighting
 - Probably a color scheme and status line
-
+<br><br>
 ### the Power User
 ```
 ~/.config/nvim/
@@ -72,7 +73,7 @@ Plugins might include:
 - Terminal integration
 - Project and session management
 - Tabline and cursorline
-
+<br><br>
 ### full IDE (do you even need this guide?)
 ```
 ~/.config/nvim/
