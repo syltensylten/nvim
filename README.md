@@ -4,15 +4,16 @@
 ```
 cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
 ```
+<br>
 
 > Before starting, ensure you have:
 > - **neovim** (duh)
 > - a [patched font](https://www.nerdfonts.com/) and a terminal that supports glyphs
 <br> 
 
-#### Yes, there are a lot of choices! But don't worry, you can easily change your mind later.
+### Starting your own config:
 
-<br>
+Yes, there are a lot of choices! But don't worry, you can easily change your mind later.
 
 **1. Do you want:**
 * Minimal?
