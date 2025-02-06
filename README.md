@@ -8,9 +8,12 @@ cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
 > Before starting, ensure you have:
 > - **neovim** (duh)
 > - a [patched font](https://www.nerdfonts.com/) and a terminal that supports glyphs
-<br>
+<br> 
+
 #### Yes, there are a lot of choices! But don't worry, you can easily change your mind later.
+
 <br>
+
 **1. Do you want:**
 * Minimal?
 * Power User?
