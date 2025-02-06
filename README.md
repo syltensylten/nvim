@@ -1,7 +1,9 @@
 ## Bread's guide to **Neovim** configuration
 
 #### Build off of mine, or start your own!
-```cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
+```
+cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
+```
 ```
 
 > Before starting, ensure you have:
