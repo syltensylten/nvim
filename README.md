@@ -19,6 +19,7 @@ Yes, there are a lot of choices! But don't worry, you can easily change your min
 * Minimal?
 * Power User?
 * Full IDE?
+An example directory structure and plugin configuration for each of those is included below.
 
 **2. Choose directory structure**
 - If you prefer vimscript, use an `init.vim`
@@ -32,7 +33,7 @@ Yes, there are a lot of choices! But don't worry, you can easily change your min
 - or [several other choices](https://github.com/rockerBOO/awesome-neovim?tab=readme-ov-file#plugin-manager)
 
 **4. Pick plugins** 
-- [Awesome mega plugins list](https://github.com/rockerBOO/awesome-neovim)
+- [Awesome neovim plugins list](https://github.com/rockerBOO/awesome-neovim)
 - See below for a rough guide on types of plugins
 
 **5. Set mappings, options, and plugin config**
