@@ -9,8 +9,7 @@ cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
 > - **neovim** (duh)
 > - a [patched font](https://www.nerdfonts.com/) and a terminal that supports glyphs
 
-## Yes, there are a lot of choices! But don't worry, you can easily change your mind later.
-===============
+#### Yes, there are a lot of choices! But don't worry, you can easily change your mind later.
 
 **1. Do you want:**
 * Minimal?
