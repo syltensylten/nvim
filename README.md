@@ -8,9 +8,9 @@ cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
 > Before starting, ensure you have:
 > - **neovim** (duh)
 > - a [patched font](https://www.nerdfonts.com/) and a terminal that supports glyphs
-
+<br>
 #### Yes, there are a lot of choices! But don't worry, you can easily change your mind later.
-
+<br>
 **1. Do you want:**
 * Minimal?
 * Power User?
@@ -34,9 +34,7 @@ cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
 **5. Set mappings, options, and plugin config**
 - Use `:help options` or browse [here](https://neovim.io/doc/user/options.html)
 - You don't *always* need to configure plugins: most have sensible defaults, and you can set as few or as many opts as you wish.
-
 <br><br>
-
 ### the Minimalist (better text editor)
 ```
 ~/.config/nvim/
