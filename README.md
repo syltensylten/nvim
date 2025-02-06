@@ -19,6 +19,7 @@ Yes, there are a lot of choices! But don't worry, you can easily change your min
 * Minimal?
 * Power User?
 * Full IDE?
+
 An example directory structure and plugin configuration for each of those is included below.
 
 **2. Choose directory structure**
