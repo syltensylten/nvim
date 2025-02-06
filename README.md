@@ -4,7 +4,6 @@
 ```
 cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
 ```
-```
 
 > Before starting, ensure you have:
 > - **neovim** (duh)
