@@ -3,9 +3,11 @@
 #### Build off of mine, or start your own!
 
 <br>
+
 > Before starting, ensure you have:
 > - **neovim** (duh)
 > - a [patched font](https://www.nerdfonts.com/) and a terminal that supports glyphs
+
 <br> 
 
 ### Quickstart with my config:
