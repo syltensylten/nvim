@@ -12,7 +12,7 @@
 
 ### Quickstart with my config:
 ```
-cd ~/.config/nvim/ && git clone https://github.com/BreadOnPenguins/neovim
+cd ~/.config/ && git clone https://github.com/BreadOnPenguins/nvim
 ```
 - On first boot, run `:PlugInstall` to ensure all plugins are installed and updated with [vim-plug](https://github.com/junegunn/vim-plug)
 - Key maps are in `lua/config/mappings.lua`
