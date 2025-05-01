@@ -13,6 +13,7 @@ local options = {
 	cursorline = true, --highlight line
 	ttyfast = true, --faster scrolling
 	smoothscroll = true,
+	title = true, --automatic window titlebar
 	
 	number = true, --numbering lines
 	relativenumber = true, --toggle bound to leader nn
