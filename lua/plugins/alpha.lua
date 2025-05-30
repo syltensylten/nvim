@@ -22,7 +22,7 @@ dashboard.section.buttons.val = {
 }
 
 dashboard.section.footer.val = {
-	[[   ]],
+	[[  ]],
 }
 
 dashboard.section.buttons.opts.hl = "Keyword"
