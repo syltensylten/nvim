@@ -39,7 +39,6 @@ Plug('ron-rs/ron.vim') --ron syntax highlighting
 Plug('MeanderingProgrammer/render-markdown.nvim') --render md inline
 Plug('emmanueltouzery/decisive.nvim') --view csv files
 Plug('folke/twilight.nvim') --surrounding dim
-Plug('sitiom/nvim-numbertoggle') --auto-toggle relatives
 
 vim.call('plug#end')
 
