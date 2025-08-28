@@ -38,7 +38,7 @@ local options = {
 	backup = false,
 	writebackup = false,
 	undofile = true, --undos are saved to file
-	undodir = vim.fn.expand("undo"),
+	undodir = vim.fn.expand("lua/undo"),
 
 
     -- indentation
