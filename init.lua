@@ -33,10 +33,10 @@ Plug('MeanderingProgrammer/render-markdown.nvim') --render md inline
 Plug('folke/twilight.nvim') --surrounding dim
 Plug('numToStr/Comment.nvim') --easier comments
 Plug('nvim-lualine/lualine.nvim') --statusline
+Plug('windwp/nvim-autopairs') --autopairs 
 -- Plug('uZer/pywal16.nvim', { [ 'as' ] = 'pywal16' }) --or, pywal colorscheme
 -- Plug('goolord/alpha-nvim') --pretty startup
 -- Plug('ron-rs/ron.vim') --ron syntax highlighting
--- Plug('windwp/nvim-autopairs') --autopairs 
 -- Plug('lewis6991/gitsigns.nvim') --git
 -- Plug('emmanueltouzery/decisive.nvim') --view csv files
 
@@ -60,8 +60,8 @@ require("plugins.which-key")
 require("plugins.barbar")
 require("plugins.comment")
 require("plugins.lualine")
+require("plugins.autopairs")
 -- require("plugins.alpha")
 -- require("plugins.gitsigns")
--- require("plugins.autopairs")
 
 load_theme()

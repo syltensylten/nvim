@@ -37,8 +37,8 @@ local options = {
 	swapfile = false, --swap just gets in the way, usually
 	backup = false,
 	writebackup = false,
-	undofile = true, --undos are saved to file
-	undodir = vim.fn.expand("$XDG_DATA_HOME/.config/nvim/lua/undo"),
+	-- undofile = true, --undos are saved to file
+	-- undodir = vim.fn.expand("~/.config/nvim/undo"),
 
 
     -- indentation
