@@ -32,13 +32,13 @@ local options = {
     
 
     -- clipboard, backup and undo
-	clipboard = "unnamedplus", --system clipboard integration
+	-- clipboard = "clipboard", --system clipboard integration
 	history = 100, --command line history
 	swapfile = false, --swap just gets in the way, usually
 	backup = false,
 	writebackup = false,
 	undofile = true, --undos are saved to file
-	undodir = vim.fn.expand("undo"),
+	undodir = vim.fn.expand("$HOME/.config/nvim/lua/undo"),
 
 
     -- indentation
@@ -52,7 +52,7 @@ local options = {
 
 	
     -- cursor from radleylewis/nvim-lite
-    guicursor = "n-v-c:block,i-ci-ve:block,r-cr:hor20,o:hor50,a:blinkwait700-blinkoff400-blinkon250-Cursor/lCursor,sm:block-blinkwait175-blinkoff150-blinkon175"
+    -- guicursor = "n-v-c:block,i-ci-ve:block,r-cr:hor20,o:hor50,a:blinkwait700-blinkoff400-blinkon250-Cursor/lCursor,sm:block-blinkwait175-blinkoff150-blinkon175"
 
 }
 
